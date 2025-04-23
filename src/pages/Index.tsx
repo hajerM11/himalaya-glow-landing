@@ -5,6 +5,7 @@ import HeroSection from "../components/HeroSection";
 import ProductsSection from "../components/ProductsSection";
 import BenefitsSection from "../components/BenefitsSection";
 import TestimonialsSection from "../components/TestimonialsSection";
+import ContactForm from "../components/ContactForm";
 import Footer from "../components/Footer";
 import ScrollToTop from "../components/ScrollToTop";
 
@@ -40,6 +41,7 @@ const Index = () => {
       <ProductsSection />
       <BenefitsSection />
       <TestimonialsSection />
+      <ContactForm />
       <Footer />
       <ScrollToTop />
     </div>
